@@ -1,2 +1,2 @@
 # Practica 4.1 Git inicial
-## git checkout -b Practica4_1 para moverme de rama
+## implementacion de clase Usuario.java y modificacion de clase Principal.java
